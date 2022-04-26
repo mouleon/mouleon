@@ -1,7 +1,7 @@
 I'm Leon - a wannabe software engineer...
  - 📅 From April to August 2022 I'm attending a 16 week coding bootcamp at The School of Code
- - 👷🏻‍♂️ I'm also working to build a personal website/blog
- - 💬 Feel free to ask me about either of these - leonmoule@hotmail.com
+ - 🧑🏻‍💻 I'm also working to build a personal website/blog - focused on biohacking 🔬 and bioenergetics ⚡️
+ - 💬 Feel free to ask me about any of this  - leonmoule@hotmail.com
 <!--
 **theleonmo/theleonmo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
