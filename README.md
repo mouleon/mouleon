@@ -1,6 +1,8 @@
-I'm Leon - a wannabe software engineer 💻 with a background in biochemistry 🧬
- - 📅 From April to August 2022 I'm attending a 16 week coding bootcamp at The School of Code (Cohort 12)
- - 🛠 I'm also working to build a blog - focused on bioenergetics ⚡️
+I'm Leon - a software engineer 💻 with a background in/shared passion for biochemistry 🧬
+ - 📅 From April to August 2022 I attended a 16 week coding bootcamp at The School of Code (Cohort 12)
+ - 📚 I'm currently learning TypeScript || AWS || CSS
+ - 🛠 I'm working on my portfolio website, a pomodoro timer and a health metric tracker 
+ - 👷🏻‍♂️I'm also building a blog focused on bioenergetics ⚡️
  - 💬 Feel free to ask me about any of this  - leonmoule@hotmail.com
 <!--
 **theleonmo/theleonmo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
