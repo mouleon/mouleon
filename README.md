@@ -1,6 +1,6 @@
 I'm Leon - a software engineer 💻 with a background in/shared passion for biochemistry 🧬
  - 📅 From April to August 2022 I attended a 16 week coding bootcamp at The School of Code (Cohort 12)
- - 📚 I'm currently learning TypeScript || AWS || CSS
+ - 📚 I'm currently learning TypeScript || AWS || CSS || Adobe Illustrator
  - 🛠 I'm working on my portfolio website, a pomodoro timer and a health metric tracker 
  - 👷🏻‍♂️I'm also building a blog focused on bioenergetics ⚡️
  - 💬 Feel free to ask me about any of this  - leonmoule@hotmail.com
